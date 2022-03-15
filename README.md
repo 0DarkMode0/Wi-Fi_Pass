@@ -1,4 +1,4 @@
-<h1 align="center">☢️ Wi-Fi Pass ☢️</h1>
+<h1 align="center">📡 Wi-Fi Pass 📡</h1>
 
 ### Mostra a senha do Wi-Fi (Apenas Logados)
 
